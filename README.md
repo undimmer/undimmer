@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ana</h1>
-<h3 align="center">I'm a computer engineering student, I work as a Support Specialist and I'm mum of a beautiful girl</h3>
+<h1 align="center">Hi 👋, Soy Ana</h1>
+<h3 align="center">Soy un estudiante de ingeniería informática y también estoy en el rollo del 42 Málaga. Me flipa la tecnología y siempre ando descubriendo cosas nuevas. </h3>
 
-- 🔭 I’m currently working as a [Support Specialist](Add Informática)
+- 🔭 Actualmente trabajo como [Support Specialist](Add Informática)
 
-- 💬 Ask me about **whatever you want**
+- 🤝 En mi repositorio público, me molaría ir soltando mi progreso en el campus y de paso, echar una mano a otros estudiantes que andan tan perdidos como yo. ¡Nos ayudamos mutuamente en este viaje! 🌟
 
-- 🤝 I’m looking for help with [C#](Campus 42)
-
-- 🌱 I’m currently learning **C# y Java**
+- 🌱 Actualmente estoy haciendo projectos en **C#. También estoy aprendiendo **.Net en mi trabajo actual.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
