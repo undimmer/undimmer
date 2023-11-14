@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, Soy Ana</h1>
 <h3 align="center">Soy un estudiante de ingeniería informática y también estoy en el rollo del 42 Málaga. Me flipa la tecnología y siempre ando descubriendo cosas nuevas. </h3>
 
-- 🔭 Actualmente trabajo como [Support Specialist](Add Informática)
+- 🔭 Actualmente trabajo como Support Specialist.
 
 - 🤝 En mi repositorio público, me molaría ir soltando mi progreso en el campus y de paso, echar una mano a otros estudiantes que andan tan perdidos como yo. ¡Nos ayudamos mutuamente en este viaje! 🌟
 
-- 🌱 Actualmente estoy haciendo projectos en **C#. También estoy aprendiendo **.Net en mi trabajo actual.
+- 🌱 Actualmente estoy haciendo projectos en C#. También estoy aprendiendo .Net en mi trabajo actual.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
