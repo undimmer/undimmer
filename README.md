@@ -7,7 +7,15 @@
 
 - 🌱 Actualmente estoy haciendo projectos en C#. También estoy aprendiendo .Net en mi trabajo actual.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">¿Cuáles son mis skills?</h3>
+|   | Experiencia |
+| ------------- | ------------- |
+| Lenguajes  | Aquí tiene que ir los iconos  |
+| Diseño  | aquí también tienen que ir  |
+| VM  | aquí también tienen que ir  |
+| SO  | aquí también tienen que ir  |
+| Herramientas  | aquí también tienen que ir  |
+| Educación  | aquí también tienen que ir  |
 <p align="left">
 </p>
 
