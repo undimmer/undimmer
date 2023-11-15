@@ -1,4 +1,7 @@
+<h1 align="center"><img src="Bannergit.jpg" alt="Profile banner"/></h1>
+
 <h1 align="center">Hi 👋, Soy Ana</h1>
+
 <h3 align="center">Soy un estudiante de ingeniería informática y también estoy en el rollo del 42 Málaga. Me flipa la tecnología y siempre ando descubriendo cosas nuevas. </h3>
 
 - 🔭 Actualmente trabajo como Support Specialist.
