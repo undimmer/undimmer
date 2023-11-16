@@ -1,6 +1,6 @@
 <h1 align="center"><img src="Bannergit.jpg" alt="Profile banner"/></h1>
 
-<h1 align="center">Hi 👋, Soy Ana</h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=F738F6&center=true&vCenter=true&random=false&width=300&lines=Bienvenid%40s+al+Git+de+Undimmer" alt="Typing SVG" /></a></p>
 
 <h3 align="center">Soy un estudiante de ingeniería informática y también estoy en el rollo del 42 Málaga. Me flipa la tecnología y siempre ando descubriendo cosas nuevas. </h3>
 
