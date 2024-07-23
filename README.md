@@ -22,3 +22,6 @@
 | Otros           | ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge) |
 | Educación       | ![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge) ![Hack The Box Badge](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)  |
 
+## ▪️ Mi progreso en 42 Málaga:
+
+◦ [42Málaga](https://profile.intra.42.fr/users/anquesad)
